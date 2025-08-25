@@ -133,7 +133,7 @@ opentelemetry-sdk==1.35.0
 opentelemetry-semantic-conventions==0.56b0
 orjson==3.11.1
 overrides==7.4.0
-packaging==23.2
+packaging>=24.2
 pandas==2.3.1
 pandocfilters==1.5.0
 parso==0.8.4
@@ -162,8 +162,6 @@ pydantic_core==2.33.2
 pydantic-settings==2.6.1
 pydeck==0.9.1
 Pygments==2.19.1
-pyobjc-core==10.1
-pyobjc-framework-Cocoa==10.1
 pyOpenSSL==25.0.0
 pyparsing==3.2.0
 pyperclip==1.9.0
